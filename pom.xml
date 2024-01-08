@@ -16,6 +16,7 @@
     <description>FlightEase-back</description>
     <modules>
         <module>authentication-service</module>
+        <module>api-gateway</module>
     </modules>
     <properties>
         <java.version>21</java.version>
