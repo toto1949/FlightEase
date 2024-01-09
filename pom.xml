@@ -18,6 +18,7 @@
         <module>authentication-service</module>
         <module>api-gateway</module>
         <module>discovery-server</module>
+        <module>flightSearch-service</module>
     </modules>
     <properties>
         <java.version>21</java.version>
